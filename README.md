@@ -1,4 +1,4 @@
-[![reset css](css-reset.png)](https://github.com/guilhermerm/reset-css/)
+[![reset css](reset-css.png)](https://github.com/guilhermerm/reset-css/)
 
 # Reset-CSS
 
