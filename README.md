@@ -1,6 +1,7 @@
 [![reset css](reset-css.png)](https://github.com/guilhermerm/reset-css/)
 
 # Reset-CSS
+Reset css for simple projects.
 
 > Reset css for simple projects.
 
