@@ -1,4 +1,4 @@
-[![reset css](reset-css.png)](https://github.com/guilhermerm/reset-css/)
+[![reset css](reset-css.png =250x250)](https://github.com/guilhermerm/reset-css/)
 
 # Reset-CSS
 Reset css for simple projects.
