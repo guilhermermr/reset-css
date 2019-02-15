@@ -1,10 +1,9 @@
 *{
-    margin: 0px;
-    padding: 0px;
+    margin: 0;
+    padding: 0;
     box-sizing: border-box;
-    font-size: 100%;
-    border: none;
     outline: none;
+    font-family: 'Trebuchet MS', sans-serif;
 }
 
 a{
@@ -13,4 +12,36 @@ a{
 
 ol, ul{
     list-style: none;
+}
+
+input, button{
+    border: solid 1 px gray;
+    padding: 5px;
+}
+
+input{
+    width: 20em;
+}
+
+input[type="button"]{
+    padding: 5px 10px;
+    background: lightgray;
+    font-weight: bold;
+    color: gray;
+}
+
+input[type="submit"]{
+    padding: 5px 10px;
+    background: rgb(45, 100, 45);
+    font-weight: bold;
+    color: white;
+
+}
+
+input[type="reset"]{
+    padding: 5px 10px;
+    color: white;
+    background: crimson;
+    font-weight: bold;
+
 }
